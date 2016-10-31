@@ -274,7 +274,7 @@ function validarContacto(){
       <div id="titular-caballito" style="font-family:Arial, Helvetica, sans-serif; font-size:18px; color:#069dc5; margin-bottom:15px; padding-left:15px;  "><span style="font-size:12px;">en</span> Caballito /</div>
 
       	<div style="width:30%; float:left; padding-left:15px;">
-        	<div style="font-family:Arial, Helvetica, sans-serif; font-size:12px;  color:#069dc5;">Direcci�n:</div>
+        	<div style="font-family:Arial, Helvetica, sans-serif; font-size:12px;  color:#069dc5;">Direcci&oacute;n:</div>
             <div style="font-family:Arial, Helvetica, sans-serif; font-size:12px; color:#5e5e5e;">
             	<p>Ambrosetti 92. Piso 1, Depto "A". Ciudad Aut. de Buenos Aires. <br />Tel&eacute;fono: 4982-1156.</p>
            	</div>
@@ -282,15 +282,15 @@ function validarContacto(){
         <div style="width:30%; float:left; padding-left:15px;">
         	<div style="font-family:Arial, Helvetica, sans-serif; font-size:12px;  color:#069dc5;">Turnos en el:</div>
             <div style="font-family:Arial, Helvetica, sans-serif; font-size:12px; color:#5e5e5e;">
-            	4631-1833 de Lunes a Viernes ma�ana y tarde.
+            	4631-1833 de Lunes a Viernes ma&ntilde;ana y tarde.
 			</div>
         </div>
         <div style="width:30%; float:left; padding-left:15px;">
-        	<div style="font-family:Arial, Helvetica, sans-serif; font-size:12px;  color:#069dc5;">D�as de atenci�n:</div>
+        	<div style="font-family:Arial, Helvetica, sans-serif; font-size:12px;  color:#069dc5;">D&iacute;as de atenci&oacute;n:</div>
             <div style="font-family:Arial, Helvetica, sans-serif; font-size:12px; color:#5e5e5e;">
-            	� Martes de 16 a 19.30hs.<br />
-                � Miercoles de 15 a 19.30hs.<br />
-                � Jueves de 9 a 12.30hs.
+            	&raquo; Martes de 16 a 19.30hs.<br />
+                &raquo; Miercoles de 15 a 19.30hs.<br />
+                &raquo; Jueves de 9 a 12.30hs.
 			</div>
         </div>
 
@@ -308,13 +308,13 @@ function validarContacto(){
         <div style="width:30%; float:left; padding-left:15px;">
         	<div style="font-family:Arial, Helvetica, sans-serif; font-size:12px;  color:#069dc5;">Turnos en el:</div>
             <div style="font-family:Arial, Helvetica, sans-serif; font-size:12px; color:#5e5e5e;">
-            	4828-0344 de Lunes a Viernes ma&ntilde;ana y tarde.
+            	4828-0344 de Lunes a Viernes de 15 a 19 hs.
 			</div>
         </div>
         <div style="width:30%; float:left; padding-left:15px;">
         	<div style="font-family:Arial, Helvetica, sans-serif; font-size:12px;  color:#069dc5;">D&iacute;as de atenci&oacute;n:</div>
             <div style="font-family:Arial, Helvetica, sans-serif; font-size:12px; color:#5e5e5e;">
-            	� Jueves de 14 a 17.30hs.
+            	&raquo; Jueves de 14 a 17.30hs.
 			</div>
         </div>
 
