@@ -1,0 +1,129 @@
+/* ESTILO DE LA BARRA 2.0 */
+div #barra_menu {
+	width: 100%;
+}
+
+div .titulo {
+	PADDING-RIGHT: 4px;
+	PADDING-LEFT: 4px;
+	font-family: Arial, Helvetica, sans-serif;
+	PADDING-BOTTOM: 4px;
+	MARGIN: 0px; 
+	COLOR: #666666;
+	PADDING-TOP: 4px;
+	background-image:url(../../imagen/cuerpo/fondo_boton_barra.jpg);
+	background-color:#efefef;
+	background-repeat:repeat-x;
+	margin-bottom:0px;
+	line-height:18px;
+	letter-spacing:1px;
+}
+
+div .submenu {
+	PADDING-RIGHT: 0px;
+	PADDING-LEFT: 0px;
+	PADDING-BOTTOM: 0px;
+	PADDING-TOP: 0px;
+}
+
+.boton{
+	PADDING-RIGHT: 4px;
+	PADDING-LEFT: 4px;
+	PADDING-BOTTOM: 4px;
+	PADDING-TOP: 4px;
+	MARGIN: 0px;
+
+	font-family: Arial, Helvetica, sans-serif;
+	background-color:#215b98;
+	background-image:url(../../imagen/cuerpo/fondo_boton_barra.jpg);
+	background-position:bottom;
+	background-repeat:repeat-x;
+	margin-bottom:0px;
+	line-height: 18px;
+	letter-spacing:1px;
+}
+
+
+/* Submenu Texto  */
+.submenu_texto_titulo{
+	color:#006699;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size:11px;
+	font-weight:bold;
+	line-height:18px;
+	text-decoration: none;
+}
+.submenu_texto{
+	color:#000;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size:11px;
+	line-height:12px;
+	text-decoration: none;
+}
+.submenu_texto A:link, .submenu_texto A:active, .submenu_texto A:visited, .submenu_texto A:hover{		
+	color:#000;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size:11px;
+	line-height:12px;
+	text-decoration: none;
+}
+
+/* Boton Titulo  */
+.boton_titulo {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size:10px;
+	color: #000000;
+	text-decoration: none;
+	letter-spacing:0px;
+}
+.boton_titulo A:link, .boton_titulo A:active, .boton_titulo A:visited{		
+	color: #FFFFFF;
+	font-size: 10px; 
+	font-family: Arial, Helvetica, sans-serif;
+	text-decoration: none; 
+	letter-spacing:0px;
+}
+.boton_titulo A:hover{
+	color:#00CCFF;
+	font-size: 10px; 
+	font-family: Arial, Helvetica, sans-serif;
+	text-decoration: none;
+	letter-spacing:0px;
+}
+
+.submenu_boton{
+	PADDING-RIGHT: 4px;
+	PADDING-LEFT: 4px;
+	PADDING-BOTTOM: 4px;
+	PADDING-TOP: 4px;
+	MARGIN: 0px 0px 0px 0px;
+
+	font-family: Arial, Helvetica, sans-serif;
+	font-size:11px;
+	background-color:#EFEFEF;
+	background-position:bottom;
+	background-repeat:repeat-x;
+	margin-bottom:0px;
+	line-height: 12px;
+}
+
+.titulo_oscuro {
+	font-family: Arial, Helvetica, sans-serif;
+	MARGIN: 0px; 
+	COLOR: #000;
+	font-size:11px;
+	margin-bottom:4px;
+	line-height:18px;
+	letter-spacing:1px;
+	text-decoration: none;
+}
+.titulo_oscuro A:link, .titulo_oscuro A:active, .titulo_oscuro A:visited, .titulo_oscuro A:hover{		
+	font-family: Arial, Helvetica, sans-serif;
+	MARGIN: 0px; 
+	COLOR: #000;
+	font-size:11px;
+	margin-bottom:4px;
+	line-height:18px;
+	letter-spacing:1px;
+	text-decoration: none;
+}

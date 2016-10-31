@@ -1,0 +1,51 @@
+/* CSS Document */
+
+body {
+	margin: 0;
+	background-image:url(../imagen/0_body/bg.png);
+	background-repeat:repeat-x;
+	background-color:#FFFFFF;
+	height: auto;
+	overflow: auto;
+}
+
+/* ----- TOP ----- */
+#header {
+	width:990px;
+	height:355px;
+	margin:0 auto;
+	text-align: center;
+}
+
+
+/* ----- CUERPO ----- */
+#cuerpo{
+	width:770px;
+	overflow: auto;
+	margin:0 auto;
+	height: auto;
+	text-align:center;
+	
+}
+
+
+/* ----- MAIN CONTENT ----- */
+#contenido {
+	width:770px;
+	min-height:350px; /* for modern browsers */
+	height:auto !important; /* for modern browsers */
+	height:350px; /* for IE5.x and IE6 */
+	background-repeat:repeat-x;
+	background-color:#FFFFFF;
+	float:left;
+}
+
+
+/* ----- FOOTER ----- */
+#footer {
+	width:770px;
+	background-repeat:repeat-x;
+	background-color:#FFFFFF;
+	float:left;
+	text-align:center
+}

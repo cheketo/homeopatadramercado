@@ -1,0 +1,200 @@
+/* ------ BODY ----- */
+body{
+	background: #F6F6F6 url(../imagen/body_back.jpg) repeat-x;
+	margin-left: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+}
+
+/* ------  TOP ------ */
+#header {
+width:100%;
+min-width:1060px;
+height:140px;
+background-image:url(../imagen/fondo_header.jpg);
+background-repeat:repeat-x;
+overflow:auto; 
+}
+
+#marco_top_izq{
+width:42px;
+height:140px;
+margin:0;
+background-image:url(../imagen/top_left.jpg);
+background-repeat:no-repeat;
+float:left;
+}
+
+#logo{
+width:164px;
+height:140px;
+margin:0;
+text-align:center;
+vertical-align:middle;
+background-image:url(../imagen/top_fondo.jpg);
+background-repeat:repeat-x;
+float:left;
+}
+
+#in_header {
+width:975px;
+height:140px;
+margin:0;
+text-align:left;
+vertical-align:baseline;
+background-image:url(../imagen/top_fondo.jpg);
+background-repeat:repeat-x;
+float:left;
+}
+
+#marco_top_der{
+width:42px;
+height:140px;
+margin:0;
+background-image:url(../imagen/top_der.jpg);
+background-repeat:no-repeat;
+float:left;
+}
+
+/* FAUX LAYOUT WRAPPER 
+This div is optional: When you delete it the navigation bar and the content block won't have the same size when one of them has a larger height then the other. I recommend you to leave this faux layout wrapper here.
+IMPORTANT: In order to make this work you have to download http://csseasy.com/layouts/fixed/background_3.gif (copy past in your address bar) and place it in the same folder as this html file. DON'T HOTLINK to this file.
+*/
+
+
+/* ---- WRAPPER ---- */
+#wrapper{
+	width:1060px;
+	overflow:auto; /* USE FIREFOX GUYS! WE ONLY NEED THIS LINE BECAUSE INTERNET EXPLODER ISN'T READING CODE PROPERLY */
+	margin-top:0px;
+	background-image:url(../imagen/fondo_cuerpo.jpg);
+	background-repeat:repeat-y;
+	height: auto;
+}
+
+/* ------- MARCOS ------- */
+#marco_izq{
+margin-left:0px;
+width:42px;
+min-height:200px;
+height:auto !important; 
+height:200px;
+background-image:url(../imagen/fondo_cuerpo_izq.jpg);
+background-repeat:np-repeat;
+float:left;
+}
+
+#marco_der{
+margin-left:0px;
+width:42px;
+min-height:200px;
+height:auto !important; 
+height:200px;
+background-image:url(../imagen/fondo_cuerpo_der.jpg);
+background-repeat:no-repeat;
+float:left;
+}
+
+/* ----- NAVIGATION ----- */
+#navigation {
+width:164px;
+min-height:500px; /* for modern browsers */
+height:auto !important; /* for modern browsers */
+height:500px; /* for IE5.x and IE6 */
+background-color:#FFFFFF;
+float:left;
+}
+
+
+/* ----- MAIN CONTENT ----- */
+#content {
+	margin-left:0px;
+	width:812px;
+	min-height:500px; /* for modern browsers */
+	height:auto !important; /* for modern browsers */
+	height:500px; /* for IE5.x and IE6 */
+	background-color:#FFFFFF;
+	float:left;
+	overflow: auto;
+}
+
+
+/* ----- FOOTER ----- */
+#footer { 
+margin-top:0px;
+width:1060px;
+height:108px;
+background-image:url(../imagen/pie_ideas2.jpg);
+background-repeat:no-repeat;
+}
+
+/* ------ TABLAS ---- */
+.fondo_tabla_principal{
+background-image:url(../imagen/cuerpo/fondo_cuerpo_centro.jpg);
+background-repeat:no-repeat;
+}
+
+/* -----  DIVS CARPETAS ----- */
+#tr_carpeta{
+	width:inherit;
+	float:left;
+}
+
+#colum_carpeta{
+	width:110px;
+	height:21px;
+	padding:5px;
+	text-align:right;
+	float:left;
+	vertical-align:middle;
+}
+
+#colum_selector{
+	height:20px;
+	width:500px;
+	padding:5px;
+	float:left;
+}
+
+/* ----- FORMS -------- */
+
+.text_areas_01{
+border:1px;
+border-style:solid;
+border-color:#CCCCCC;
+padding: 8px;
+background-color:#FFFFFF;
+}
+
+.text_field_01{
+border:1px;
+border-style:solid;
+border-color:#CCCCCC;
+padding: 2px;
+background-color:#FFFFFF;
+}
+
+.buttons{
+border:1px;
+border-style:solid;
+border-color:#CCCCCC;
+padding: 2px;
+background-color:#FFFFFF;
+color:#FF99FF;
+background:url(../imagen/fondo_boton.jpg) repeat-x left top;
+}
+
+.div_comentario{
+padding:5px;
+padding-top:8px;
+opacity:1;
+border-style:dashed;
+border: 1px #999999;
+/*background-color:#F5FEFC;*/
+background-color:#E8EBFD;
+width:97%;
+margin-top:0px;
+border-top-style:none;
+margin-bottom:15px;
+}

@@ -1,0 +1,384 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<title>Ideas2 - Modulo - Meta Tag</title>
+<style type="text/css">
+<!--
+.texto_12 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+}
+.texto_12_negrita {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-weight: bold;
+	
+}
+.style2 {font-family: Arial, Helvetica, sans-serif; font-size: 18px; font-weight: bold; }
+-->
+</style>
+</head>
+
+<body>
+<table width="100%" border="0" cellspacing="1" cellpadding="5">
+  <tr>
+    <td class="texto_12_negrita"><hr /></td>
+  </tr>
+  <tr>
+    <td class="texto_12_negrita">    <a href="http://dublincore.org/documents/usageguide/elements.shtml" target="_blank">http://dublincore.org/documents/usageguide/elements.shtml</a></td>
+  </tr>
+  <tr>
+    <td class="texto_12">En este link encontraras la descripcion de Using Dublin Core - The Elements
+    <hr /></td>
+  </tr>
+  <tr>
+    <td class="texto_12_negrita">&nbsp;</td>
+  </tr>
+  <tr>
+    <td class="texto_12_negrita">&nbsp;</td>
+  </tr>
+  <tr>
+    <td class="texto_12_negrita">&nbsp;</td>
+  </tr>
+  <tr>
+    <td class="style2">Meta Tag </td>
+  </tr>
+  <tr>
+    <td class="texto_12_negrita"><hr /></td>
+  </tr>
+  <tr>
+    <td class="texto_12_negrita">&lt;meta name=&quot;author&quot; content=&quot;www.ideas2.net&quot;&gt;<br />
+&lt;meta name=&quot;DC.Creator&quot; content=&quot;www.ideas2.net&quot;&gt;</td>
+  </tr>
+  <tr>
+    <td class="texto_12">Se utiliza para indicar el autor del sitio
+      <hr /></td>
+  </tr>
+  <tr>
+    <td class="texto_12_negrita">&lt;meta name=copyright content=&quot;ideas2.net&quot;&gt;<br />
+    &lt;link rel=&quot;posicionamiento en buscadores &quot; content=&quot;http://www.ideas2.net&quot;&gt;<br />
+    &lt;meta name=&quot;Designer&quot; content=&quot;ideas2.net&quot;&gt;</td>
+  </tr>
+  <tr>
+    <td class="texto_12">Se utiliza para indicar el copyright del sitio
+      <hr /></td>
+  </tr>
+  <tr>
+    <td class="texto_12_negrita">&lt;meta name=&quot;distribution&quot; content=&quot;all&quot;&gt;<br />
+&lt;meta name=&quot;robots&quot; content=&quot;all&quot;&gt;</td>
+  </tr>
+  <tr>
+    <td class="texto_12"> <p>El valor de content puede ser: </p>
+
+      <table width="100%" border="1" cellspacing="0" cellpadding="3">
+        <tr>
+          <td width="6%" align="left">all</td>
+          <td width="94%">para que el robot tenga en cuenta esta p&aacute;gina y pueda seguir los links contenidos en la misma (este es el valor predeterminado)</td>
+        </tr>
+        <tr>
+          <td align="left">noindex</td>
+          <td>para que no la tenga en cuenta.</td>
+        </tr>
+        <tr>
+          <td align="left">none</td>
+          <td>que es lo mismo que noindex, nofollow</td>
+        </tr>
+        <tr>
+          <td align="left">index</td>
+          <td>para que la tenga en cuenta</td>
+        </tr>
+        <tr>
+          <td align="left">follow</td>
+          <td>para que pueda seguir los links que haya en la p&aacute;gina</td>
+        </tr>
+        <tr>
+          <td align="left">nofollow</td>
+          <td>lo contrario de follow.</td>
+        </tr>
+      </table>
+      <hr /></td>
+  </tr>
+  <tr>
+    <td class="texto_12_negrita">&lt;meta name=&quot;revisit&quot; content=&quot;15 days&quot;&gt; <br />
+    &lt;meta name=&quot;REVISIT-AFTER&quot;   content=&quot;15 days&quot;&gt; </td>
+  </tr>
+  <tr>
+    <td class="texto_12">Es para que el buscador nos visite nuevamente luego de tantos dias.
+      <hr /></td>
+  </tr>
+  <tr>
+    <td class="texto_12_negrita">&lt;title&gt;Aire Acondicionado y Calefacci&oacute;n. Haverland. Calor AZUL&lt;/title&gt;<br />
+&lt;meta name=&quot;title&quot; content=&quot;Aire Acondicionado y Calefacci&oacute;n. Haverland&quot;&gt;<br />
+&lt;meta name=&quot;DC.Title&quot; content=&quot;Aire Acondicionado y Calefacci&oacute;n. Haverland&quot;&gt;<br />
+&lt;meta http-equiv=&quot;title&quot; content=&quot;Aire Acondicionado y Calefacci&oacute;n. Haverland&quot;&gt;</td>
+  </tr>
+  <tr>
+    <td class="texto_12">Es el titulo generico del sitio.  Si deseamos poner un titulo especifico de una web, se usa la variable<strong> $meta_tag_title_opcional</strong>. Debe ser muy corto, ya que luego va cargado el nombre del producto o de la seccion. <br />
+      <strong>No poner mas de 50 caracteres</strong>, Hay que poner los dos titulos. <br />
+      <br />
+    <hr /></td>
+  </tr>
+  <tr>
+    <td class="texto_12_negrita">&lt;meta name=&quot;description&quot; content=&quot;Suministro e instalacion de aire acondicionado. Equipos emisores termicos Haverland. Especialistas en calor azul&quot;&gt;<br />      
+      &lt;meta http-equiv=&quot;description&quot; content=&quot;Suministro e instalacion de aire acondicionado. Equipos emisores termicos Haverland. Especialistas en calor azul&quot;&gt;<br />
+&lt;meta http-equiv=&quot;DC.Description&quot; content=&quot;Suministro e instalacion de aire acondicionado. Equipos emisores termicos Haverland&quot;&gt;</td>
+  </tr>
+  <tr>
+    <td class="texto_12"><p>Muestra la descripcion generica del sito. Cuando esta definido la variable <strong>$meta_tag_description_opcional</strong>, reemplaza a <strong>$meta_tag_description</strong>, para evitar poner gran cantidad de caracteres.<br />
+        <strong>No poner mas de 200 caracteres.</strong></p>
+      <hr />
+      <p><br />
+      </p></td>
+  </tr>
+  <tr>
+    <td class="texto_12_negrita">&lt;meta http-equiv=&quot;keywords&quot; content=&quot;Haverland, daikin, fujitsu,  climatizacion domestica&quot;&gt;</td>
+  </tr>
+  <tr>
+    <td class="texto_12">Son las palabres claves genericas, se usa, para cuando no se especifican. Tiene que estar separado por comas, ej: auto, lancha, compra, etc<br />
+      <strong>No poner mas de 500 caracteres, o 20 palabras      </strong>
+    <hr /></td>
+  </tr>
+  <tr>
+    <td class="texto_12_negrita">&lt;meta   http-equiv=&quot;Content-Type&quot; content=&quot;text/html; ISO-8859-1&quot;&gt;</td>
+  </tr>
+  <tr>
+    <td class="texto_12">Es para definir el mapa de caracteres. El ISO-8859-1 reconoce los caracteres con hacento como &oacute; &uacute; etc..
+    <hr /></td>
+  </tr>
+  <tr>
+    <td class="texto_12_negrita"><p>&lt;meta name=&quot;geo.position&quot; content=&quot;-34.31;-58.30&quot; /&gt;<br />
+      &lt;meta name=&quot;geo.country&quot; content=&quot;AR&quot; /&gt;<br />
+        &lt;meta name=&quot;geo.region&quot; content=&quot;AR-B&quot; /&gt;<br />
+  &lt;meta name=&quot;geo.placename&quot; content=&quot;San Isidro&quot; /&gt;<br />
+  &lt;meta name=&quot;distribution&quot; content=&quot;global&quot;&gt; </p>    </td>
+  </tr>
+  <tr>
+    <td class="texto_12"><p><a href="http://geotags.com/geo/DMS3.html" target="_blank">http://geotags.com/geo/DMS3.html</a><br />
+    para identificar la posicion global </p>
+      <p><a href="http://geotags.com/iso3166/countries.html" target="_blank">http://geotags.com/iso3166/countries.html
+        </a>        </p>
+      <table width="100%" border="0" cellspacing="0" cellpadding="5">
+      <tr>
+        <td valign="top"><a href="http://geotags.com/iso3166/iso.AR.html">AR</a> :   ARGENTINA
+          
+          <br />
+          <a href="http://geotags.com/iso3166/iso.AU.html">AU</a> :   AUSTRALIA
+          <br />
+          <a href="http://geotags.com/iso3166/iso.BO.html">BO</a> : BOLIVIA<br />
+          <a href="http://geotags.com/iso3166/iso.BR.html">BR</a> :   BRAZIL
+          
+          <br />
+          <br /></td>
+        <td valign="top"><a href="http://geotags.com/iso3166/iso.CL.html">CL</a> :   CHILE <br />
+          <a href="http://geotags.com/iso3166/iso.CN.html">CN</a> : CHINA<br />
+          <a href="http://geotags.com/iso3166/iso.CO.html">CO</a> : COLOMBIA <br />
+          <a href="http://geotags.com/iso3166/iso.CR.html">CR</a> : COSTA RICA<br />          <br /></td>
+        <td valign="top"><a href="http://geotags.com/iso3166/iso.CU.html">CU</a> :   CUBA<br />
+          <a href="http://geotags.com/iso3166/iso.DE.html">DE</a> : GERMANY<br />
+          <a href="http://geotags.com/iso3166/iso.EC.html">EC</a> : ECUADOR<br />
+          <a href="http://geotags.com/iso3166/iso.ES.html">ES</a> : SPAIN<br />          <br /></td>
+        <td valign="top"><a href="iso.FR.html">FR</a> : FRANCE<br />
+          <a href="http://geotags.com/iso3166/iso.GB.html">GB</a> : UNITED KINGDOM<br />
+          <a href="http://geotags.com/iso3166/iso.IT.html">IT</a> : ITALY<br />
+          <a href="http://geotags.com/iso3166/iso.MX.html">MX</a> : MEXICO<br /></td>
+        <td valign="top"><a href="http://geotags.com/iso3166/iso.PE.html">PE</a> : PERU<br />
+          <a href="http://geotags.com/iso3166/iso.PR.html">PR</a> : PUERTO   RICO<br />
+          <a href="http://geotags.com/iso3166/iso.PT.html">PT</a> : PORTUGAL<br />
+          <a href="http://geotags.com/iso3166/iso.PY.html">PY</a> : PARAGUAY<br />
+          <br /></td>
+        <td valign="top"><a href="http://geotags.com/iso3166/iso.US.html">US</a> : UNITED STATES<br />
+          <a href="http://geotags.com/iso3166/iso.UY.html">UY</a> : URUGUAY<br />
+          <a href="http://geotags.com/iso3166/iso.VE.html">VE</a> : VENEZUELA</td>
+      </tr>
+    </table>      
+      <p><a href="http://geotags.com/iso3166/iso.AR.html" target="_blank">http://geotags.com/iso3166/iso.AR.html
+      </a></p>
+      <table width="100%" border="0" cellspacing="0" cellpadding="5">
+        <tr>
+          <td valign="top">AR-C : Capital federal<br />
+            AR-B : Buenos Aires<br />
+            AR-K : Catamarca<br />
+            AR-X :   Cordoba<br />
+            AR-W : Corrientes<br />
+            <br />
+              <br /></td>
+          <td valign="top">AR-H : Chaco<br />
+AR-U : Chubut<br />
+AR-E : Entre   Rios<br />
+AR-P : Formosa<br />
+AR-Y : Jujuy<br />
+<br />
+              <br /></td>
+          <td valign="top">AR-L : La Pampa<br />
+AR-M :   Mendoza<br />
+AR-N : Misiones<br />
+AR-Q : Neuqu&#65533;n<br />
+AR-R : Ri&#65533; Negro<br />
+<br />
+              <br /></td>
+          <td valign="top">AR-A :   Salta<br />
+AR-J : San Juan<br />
+AR-D : San Luis<br />
+AR-Z : Santa Cruz<br />
+AR-S : Santa   Fe<br /><br /></td>
+          <td valign="top">AR-G : Santiago del Estero<br />
+AR-V : Tierra del Fuego<br />
+AR-T : Tucum&aacute;n<br />
+              <br /></td>
+          <td valign="top">&nbsp;</td>
+        </tr>
+      </table>
+      <p><a href="http://geotags.com/iso3166/iso.ES.html" target="_blank">http://geotags.com/iso3166/iso.ES.html</a></p>
+      <table width="100%" border="0" cellspacing="0" cellpadding="5">
+        <tr>
+          <td valign="top">ES-AN : Andaluc&#65533;a<br />
+            ES-AR : Aragon<br />
+            ES-O : Asturias, Principado de<br />
+            ES-CN :   Canarias<br />
+            ES-S : Cantabria<br />
+            ES-CM : Castilla-La Mancha<br />
+            ES-CL : Castilla y   Leon<br />
+            ES-CT : Catalu&#65533;a<br />
+            ES-EX : Extremadura<br />
+ES-GA : Galicia<br />
+ES-PM :   Islas Baleares<br />
+ES-LO : La Rioja</td>
+          <td valign="top"> ES-M : Madrid, Comunidad de<br />
+ES-MU :   Murcia, Region de<br />
+ES-NA : Navarra, Comunidad Foral de<br />
+ES-PV : Pa&#65533;s   Vasco<br />
+ES-VC : Valenciana, Comunidad<br />
+ES-VI : &#65533;lava<br />
+ES-AB :   Albacete<br />
+ES-A : Alicante<br />
+ES-AL : Almer&#65533;a<br />
+ES-O : Asturias<br />
+ES-AV :   &#65533;vila<br />
+ES-BA : Badajoz</td>
+          <td valign="top"> ES-PM : Baleares<br />
+            ES-B : Barcelona<br />
+            ES-BU :   Burgos<br />
+ES-CC : C&#65533;ceres<br />
+ES-CA : C&#65533;diz<br />
+ES-S : Cantabria<br />
+ES-CS :   Castell&#65533;n<br />
+ES-CR : Ciudad Real<br />
+ES-CO : C&#65533;rdoba<br />
+ES-CU : Cuenca<br />
+ES-GE :   Gerona<br />
+ES-GR : Granada</td>
+          <td valign="top"> ES-GU : Guadalajara<br />
+ES-SS : Guip&#65533;zcoa<br />
+ES-H :   Huelva<br />
+ES-HU : Huesca<br />
+ES-J : Ja&#65533;n<br />
+ES-C : La Coru&#65533;a<br />
+ES-LO : La   Rioja<br />
+ES-GC : Las Palmas<br />
+ES-LE : Le&#65533;n<br />
+ES-L : L&#65533;rida<br />
+ES-LU :   Lugo
+<br />
+          <br /></td>
+          <td valign="top"> ES-M : Madrid<br />
+ES-MA : M&#65533;laga<br />
+ES-MU : Murcia<br />
+ES-NA :   Navarra<br />
+ES-OR : Orense<br />
+ES-P : Palencia<br />
+ES-PO : Pontevedra<br />
+ES-SA :   Salamanca<br />
+ES-TF : Santa Cruz De Tenerife<br />
+ES-SO : Segovia<br />
+ES-SE :   Sevilla
+          <br /></td>
+          <td valign="top"> ES-SO : Soria<br />
+ES-T : Tarragona<br />
+ES-TE : Teruel<br />
+ES-TO :   Toledo<br />
+ES-V : Valencia<br />
+ES-VA : Valladolid<br />
+ES-BI : Vizcaya<br />
+ES-ZA :   Zamora<br />
+ES-Z : Zaragoza<br />
+ES-CE : Ceuta<br />
+ES-ML : Melilla</td>
+        </tr>
+      </table>    </td>
+  </tr>
+  
+  <tr>
+    <td class="texto_12"><a href="http://www.getty.edu/research/conducting_research/vocabularies/tgn/" target="_blank">http://www.getty.edu/research/conducting_research/vocabularies/tgn/</a><br />
+    Para identificar la ciudad 
+    <hr /></td>
+  </tr>
+  
+  <tr>
+    <td class="texto_12_negrita">&lt;meta http-equiv=&quot;Content-Language&quot; content=&quot;es&quot;/&gt;<br />
+    &lt;meta name=&quot;DC.Language&quot; scheme=&quot;RFC1766&quot; content=&quot;Spanish&quot; /&gt; </td>
+  </tr>
+  <tr>
+    <td class="texto_12"><p><a href="http://64.233.179.104/translate_c?hl=es&amp;u=http://xml.coverpages.org/nisoLang3-1994.html" target="_blank">http://64.233.179.104/translate_c?hl=es&amp;u=http://xml.coverpages.org/nisoLang3-1994.html</a> <br />
+        <a href="http://www.w3.org/WAI/ER/IG/ert/iso639.htm" target="_blank">http://www.w3.org/WAI/ER/IG/ert/iso639.htm</a></p>
+    <table width="100%" border="0" cellspacing="0" cellpadding="5">
+      <tr>
+        <td width="19%" valign="top">ES:Spanish<br />
+          EN: English o American          
+          <br /></td>
+        <td width="12%" valign="top">IT: <span onmouseover="_tipon(this)" onmouseout="_tipoff()"> Italiano</span><br />
+PT:Portuguese</td>
+        <td width="34%" valign="top">FR: French<br />
+          DE: German</td>
+        <td width="35%" valign="top">JA: Japanese<br /></td>
+      </tr>
+    </table>
+    <hr /></td>
+  </tr>
+  <tr>
+    <td class="texto_12">&nbsp;</td>
+  </tr>
+  <tr>
+    <td class="texto_12">&nbsp;</td>
+  </tr>
+  <tr>
+    <td class="texto_12">&nbsp;</td>
+  </tr>
+  <tr>
+    <td class="style2">A analizar 
+    <hr /></td>
+  </tr>
+  <tr>
+    <td class="texto_12"><p>&lt;meta name=&quot;vw96.objectype&quot; content=&quot;Document&quot;&gt;<br />
+  &lt;meta name=&quot;resource-type&quot; content=&quot;Document&quot;&gt;<br />
+  &lt;meta name=&quot;distribution&quot; content=&quot;global&quot;&gt; <br />
+  <br />
+  &lt;meta   name=&quot;resource-type&quot; content=&quot;document&quot;&gt;<br />
+  &lt;meta   http-equiv=&quot;Content-Type&quot; content=&quot;text/html;   charset=iso-8859-1&quot;&gt;<br />
+  &lt;meta http-equiv=&quot;Last-Modified&quot;   content=&quot;0&quot;&gt;<br />
+  &lt;meta http-equiv=&quot;Cache-Control&quot; content=&quot;no-cache,   must-revalidate&quot;&gt;<br />
+  &lt;meta http-equiv=&quot;Content-Language&quot;   content=&quot;es&quot;&gt;<br />
+  &lt;META HTTP-EQUIV=&quot;Expires&quot; CONTENT=&quot;Tue, 01 Jan 1980   1:00:00 GMT&quot;&gt;<br />
+  &lt;META HTTP-EQUIV=&quot;Pragma&quot; CONTENT=&quot;no-cache&quot;&gt; </p>
+      <p><br />
+  &lt;meta name=&ldquo;vw96.objectype&rdquo; content=&ldquo;Document&rdquo; /&gt;    &lt;meta name=&ldquo;resource-type&rdquo; content=&ldquo;Document&rdquo; /&gt;    &lt;meta http-equiv=&ldquo;Content-Type&rdquo; content=&ldquo;text/html; charset=iso-8859-1&Prime; /&gt;    &lt;meta name=&ldquo;distribution&rdquo; content=&ldquo;all&rdquo; /&gt;    &lt;meta name=&ldquo;robots&rdquo; content=&ldquo;all&rdquo; /&gt;    &lt;meta name=&ldquo;revisit&rdquo; content=&ldquo;7 days&rdquo; /&gt;    &lt;meta http-equiv=&ldquo;Content-Style-Type&rdquo; content=&ldquo;text/css&rdquo; /&gt;    &lt;meta http-equiv=&ldquo;Content-Script-Type&rdquo; content=&ldquo;type&rdquo; /&gt;    &lt;meta name=&ldquo;verify-v1&Prime; content=&ldquo;3+6qM2Z87OEY8W0ewodQJc1qEvqMYA31yvOKUqCZFmQ</p>
+    <hr /></td>
+  </tr>
+  <tr>
+    <td class="texto_12"><span class="style2">Link de Interes </span></td>
+  </tr>
+  <tr>
+    <td class="texto_12"><ul>
+      <li><a href="http://artprojectgroup.wordpress.com/2008/03/09/las-meta-tags-y-el-posicionamiento-web/" target="_blank">http://artprojectgroup.wordpress.com/2008/03/09/las-meta-tags-y-el-posicionamiento-web/</a></li>
+      <li></li>
+    </ul></td>
+  </tr>
+  <tr>
+    <td class="texto_12">&nbsp;</td>
+  </tr>
+</table>
+<p>&nbsp;</p>
+<p><br />
+</p>
+</body>
+</html>

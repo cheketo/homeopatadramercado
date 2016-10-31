@@ -1,0 +1,340 @@
+/* CSS Document */
+.tabla_producto{
+	border-bottom:1px solid #CCCCCC;
+	border-top:1px solid #CCCCCC;
+}
+.tabla_producto_carrito{
+	border-bottom:1px solid #CCCCCC;
+}
+
+/* MENSAJES */
+.divAlerts{
+	margin-left:12px;
+	padding-left:20px;
+	background-image:url(../../../imagen/varios/bullet_error.png);
+	background-repeat:no-repeat;
+	background-position:left top;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:11px;
+	color:#FF0000;
+	display:none;
+	width:90%;
+}
+.divMsg{
+	margin-left:12px; 
+	padding-left:20px;
+	background-image:url(../../../imagen/varios/tick.png);
+	background-repeat:no-repeat;
+	background-position:left;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:11px;
+	color:#33CC33;
+	display:none;
+	width:90%;
+}
+
+/* HOME */
+#miniPhoto{
+	width:35px; 
+	height:35px; 
+	border:2px solid #FFFFFF; 
+	margin:1px;
+	background-repeat:no-repeat;
+}
+.numDestino{ font-family:Arial, Helvetica, sans-serif; font-size:11px; color:#006699;}
+.tituloDestino{ font-family:Arial, Helvetica, sans-serif; font-size:15px; color:#006699; font-weight:bold;}
+.sloganDestino{ font-family:Arial, Helvetica, sans-serif; font-size:12px; color:#FFFFFF; margin-left:20px;}
+
+/* CARPETA */
+.readMore{ font-family:Arial, Helvetica, sans-serif; font-size:11px; color:#FFFFFF; padding-bottom:3px; padding-top:3px; padding-left:16px; padding-right:16px; background-color:#FF6600; text-align:center; margin-bottom:5px; float:left; cursor:pointer; margin-right:5px; }
+.readMore:hover{ background-color:#FF9900; }
+.copeteCarpeta {font-family:Arial, Helvetica, sans-serif; font-size:13px; color:#666666; }
+.tituloCarpeta{ font-family:Arial, Helvetica, sans-serif; font-size:15px; color:#006699; font-weight:bold;}
+.marcoFoto{ padding:5px; background-color:#FFFFFF; border:1px solid #F3F3F3; margin-right:10px;}
+.marcoFoto:hover{padding:5px; background-color:#FFFFFF; border:1px solid #CCCCCC; margin-right:10px;}
+.subCarpeta{font-family:Arial, Helvetica, sans-serif; font-size:11px; color:#FFFFFF; padding-bottom:3px; padding-top:3px; padding-left:16px; padding-right:16px; background-color:#999999; text-align:center; margin-bottom:5px; float:left; cursor:pointer;  margin-right:5px;  }
+.subCarpeta:hover{ background-color:#666666; }
+.tituloPrecio{ font-family:Arial, Helvetica, sans-serif; font-size:15px; color:#FF6600; font-weight:bold;}
+
+
+/* SECCION */
+.BookNow{ font-family:Arial, Helvetica, sans-serif; font-size:11px; color:#FFFFFF; padding-bottom:5px; padding-top:5px; padding-left:16px; padding-right:16px; background-color:#069fc8; text-align:center; cursor:pointer; }
+.BookNow:hover{ background-color:#FF9900; }
+.GoBack{font-family:Arial, Helvetica, sans-serif; font-size:11px; color:#FFFFFF; padding-bottom:5px; padding-top:5px; padding-left:16px; padding-right:16px; background-color:#666666; text-align:center; cursor:pointer; }
+.GoBack:hover{ background-color:#FF9900; }
+.textoSeccion{font-family:Arial, Helvetica, sans-serif; font-size:13px; color:#666666; }
+
+/* BLOG */
+.FechaPost{ font-family:Arial, Helvetica, sans-serif; font-size:10px; color:#999999; }
+.TagsPost{ font-family:Arial, Helvetica, sans-serif; font-size:10px; color:#6699CC; }
+.marcoFotoBlog{ padding:5px; background-color:#FFFFFF; border:1px solid #F3F3F3; }
+.marcoFotoBlog:hover{padding:5px; background-color:#FFFFFF; border:1px solid #CCCCCC; }
+.tituloPost{ font-family:Arial, Helvetica, sans-serif; font-size:15px; color:#006699; font-weight:bold; padding:3px;}
+.tituloPost:Hover{background-color:#97D9E5; color:#FFFFFF;}
+.Share{ font-family:Arial, Helvetica, sans-serif; font-size:11px; color:#FFFFFF; padding-bottom:3px; padding-top:3px; padding-left:16px; padding-right:16px; background-color:#6699CC; text-align:center; }
+.Share:hover{ background-color:#666699; }
+.SubTitulos{ font-family:Arial, Helvetica, sans-serif; font-size:12px; color:#006699; padding:3px; border-bottom:1px dotted #97D9E5;  }
+.LatestPost{font-family:Arial, Helvetica, sans-serif; font-size:10px; color:#6699CC; margin-top:4px; padding:5px; }
+.LatestPost:hover{ background-color:#97D9E5; color:#FFFFFF; }
+.TagsCloud{font-family:Arial, Helvetica, sans-serif; font-size:11px; color:#6699CC; line-height:20px; padding:2px;}
+.TagsCloud:hover{ background-color:#97D9E5; color:#FFFFFF; }
+.textoBlog{font-family:Arial, Helvetica, sans-serif; font-size:12px; color:#666666; }
+
+
+
+/* CONTACTO */
+#contacto_titulo {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	font-weight: bold;
+	margin-bottom: 3px;
+}
+
+/* FAQ's */
+.FAQ_titulo {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-weight: bold;
+	color:#0099CC;
+	margin-bottom: 3px;
+}
+.FAQ_texto {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color:#999999;
+	margin-bottom: 3px;
+}
+
+#contacto_datos {
+	width: 270px;
+	height: 280px;
+	margin: 5px;
+	float: left;
+	font-family: Geneva, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+}
+
+#contacto_formulario {
+	width: 360px;
+	height: 300px;
+	margin: 5px;
+	float: left;
+	font-family: Geneva, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+}
+
+
+
+/* INICIO */
+#banner_home {
+	background-color: #E9E6D7;
+	height: 140.px;
+	height: 135px;
+	color: #333333;
+	font-family: Geneva, Arial, Helvetica, sans-serif;
+	font-weight: bold;
+	filter:progid:DXImageTransform.Microsoft.Gradient(endColorstr='#e8e6d7', startColorstr='#d4caab', gradientType='1');
+	padding: 5px;
+}
+#noticia_titulo {
+	filter:progid:DXImageTransform.Microsoft.Gradient(endColorstr='#0b3d76', startColorstr='#0f55a0', gradientType='0');
+	font-family: Geneva, Arial, Helvetica, sans-serif;
+	font-size: 16px;
+	color: #FFFFFF;
+	font-weight: bold;
+	height: 30px;
+	background-color: #0D4988;
+	margin-top: 5px;
+	margin-bottom: 5px;
+	padding-top: 12px;
+	padding-left: 5px;
+	vertical-align: bottom;
+	
+}
+#noticia_01 {
+	font-family: Geneva, Arial, Helvetica, sans-serif;
+	background-color: #F6F6EE;
+	float: left;
+	width: 220px;
+	color: #333333;
+	font-size: 11px;
+	padding: 2px;
+}
+#noticia_sep_01 {
+	background-image: url(imagen/0_body/noticias_separador.jpg);
+	height: 100px;
+	background-repeat: no-repeat;
+	float: left;
+	width: 15px;
+}
+#noticia_02 {
+	font-family: Geneva, Arial, Helvetica, sans-serif;
+	background-color: #F6F6EE;
+	float: left;
+	width: 140px;
+	color: #333333;
+	font-size: 11px;
+	padding: 2px;
+}
+#noticia_sep_02 {
+	background-image: url(imagen/0_body/noticias_separador.jpg);
+	height: 100px;
+	background-repeat: no-repeat;
+	float: left;
+	width: 15px;
+}
+#noticia_03 {
+	font-family: Geneva, Arial, Helvetica, sans-serif;
+	background-color: #F6F6EE;
+	float: left;
+	width: 220px;
+	height: auto;
+	color: #333333;
+	font-size: 11px;
+	padding: 2px;
+}
+
+#titulo {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	font-weight: bold;
+	margin-bottom: 3px;
+}
+#foto {
+	border: 1px solid #919191;
+	height: 83px;
+	margin-bottom: 4px;
+	width: 140px;
+}
+
+#info1 {
+	width: 640px;
+	height: 280px;
+	margin: 5px;
+}
+
+#info1_p1 {
+	width: 144px;
+	height: 270px;
+	background-color: #F3AE6D;
+	border: 1px solid #797870;
+	font-family: Geneva, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #171715;
+	padding: 5px;
+	float: left;
+	margin-right: 7px;
+}
+
+#info1_p2 {
+	width: 142px;
+	height: 270px;
+	background-color: #73BCB1;
+	border: 1px solid #797870;
+	font-family: Geneva, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #171715;
+	padding: 5px;
+	float: left;
+	margin-right: 7px;
+}
+
+#info1_p3 {
+	width: 142px;
+	height: 270px;
+	background-color: #BE5BAD;
+	border: 1px solid #797870;
+	font-family: Geneva, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #171715;
+	padding: 5px;
+	float: left;
+	margin-right: 7px;
+}
+
+#info1_p4 {
+	width: 142px;
+	height: 270px;
+	background-color: #8EBAE7;
+	border: 1px solid #797870;
+	font-family: Geneva, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #171715;
+	padding: 5px;
+	float: left;
+}
+
+#info2 {
+	width: 640px;
+	height: auto;
+	margin: 5px;
+}
+
+#info2_p1 {
+	width: 144px;
+	height: 320px;
+	float: left;
+	background-color: #E9E6D7;
+	border: 1px solid #797870;
+	font-family: Geneva, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #171715;
+	padding: 5px;
+	float: left;
+	margin-right: 7px;
+}
+
+#info2_p2 {
+	border: 1px solid #797870;
+	width: 463px;
+	height: auto;
+	float: left;
+	padding: 5px;
+	color: #FFFFFF;
+}
+#info3 {
+	width: 640px;
+	height: 181px;
+	margin: 5px;
+}
+
+
+/* RECUADRO FOTOS */
+
+#cuadro_centro_arriba {
+	background-image: url(../imagen/varios/cuadro_centro_arriba.jpg);
+	background-repeat: repeat-x;
+	background-position: center bottom;
+}
+
+#cuadro_centro_abajo {
+	background-image: url(../imagen/varios/cuadro_centro_abajo.jpg);
+	background-repeat: repeat-x;
+	background-position: center top;
+}
+
+
+/* DESARROLLOS */
+
+#kwicks_container { 
+	height: 150px;
+	margin-left:-8px;
+}
+#kwicks {
+	position: relative;
+}
+ 
+#kwicks .kwick {
+	float: left;
+	display: block;
+	width: 150px;
+	height: 150px;
+}
+ 
+#kwick_red{ text-align:left; padding:10px;}
+#kwick_orange {}
+#kwick_yellow {}
+#kwick_green {}
+#kwick_blue {}
+#kwick_indigo { }
+#kwick_violet {}

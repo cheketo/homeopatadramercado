@@ -1,0 +1,75 @@
+/* CSS Document */
+	
+	/* ----- FONTS STYLES ----- */
+	.titulo_grande_bold{
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 20px; 
+	font-weight: normal; 	
+	COLOR: #666666; 
+	}
+	
+	.titulo_medio_bold{
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px; 
+	font-weight: bold; 	
+	COLOR: #000000; 
+	}
+
+	.detalle_medio_bold_black{
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px; 
+	font-weight: bold; 	
+	COLOR: #000000; 
+	}
+	
+	.detalle_medio_bold{
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px; 
+	font-weight: bold; 	
+	COLOR: #000000; 
+	}
+	
+	.detalle_medio_bold_white{
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px; 
+	font-weight: bold; 	
+	COLOR: #FFFFFF; 
+	}
+
+	.detalle_medio{
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px; 	
+	COLOR: #666666; 
+	}
+
+	.detalle_chico{
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px; 	
+	COLOR: #000000; 
+	}
+	
+	.detalle_11px{
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 11px; 	
+	COLOR:#666666;
+	letter-spacing:0px;
+	}
+	
+	/* --- LINK STYLES --- */
+	.link_naranja_12px{
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px; 	
+	COLOR: #F90; 
+	}
+	
+	.link_naranja_12px:link ,.link_naranja_12px:active, .link_naranja_12px:visited{
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px; 	
+	COLOR: #F90; 
+	}
+	.link_naranja_12px:hover{
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px; 	
+	COLOR: #F90;
+	text-decoration:underline;
+	}

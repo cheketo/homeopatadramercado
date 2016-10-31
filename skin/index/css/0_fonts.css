@@ -1,0 +1,181 @@
+
+.Arial_12px_Gris_Line17{
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:13px;
+	color:#5e5e5e;
+	line-height:17px;
+	text-align:justify;
+}
+.Arial_12px_Gris{
+	font-family:Arial, Helvetica, sans-serif; 
+	font-size:13px; 
+	color:#5e5e5e;
+}
+
+.Arial_18px_Celeste{
+	font-family:Arial, Helvetica, sans-serif; 
+	font-size:18px; 
+	color:#069dc5;
+}
+.Arial_12px_Celeste{
+	font-family:Arial, Helvetica, sans-serif; 
+	font-size:12px;  
+	color:#069dc5;
+}
+
+.Arial_12px_CelesteClaro{
+	font-family:Arial, Helvetica, sans-serif; 
+	font-size:12px; 
+	color:#00b3e2; 
+	text-align:justify;
+	text-decoration:underline;
+}
+
+
+
+
+
+#txt-bienvenida{
+	width:447px; 
+	float:left; 
+	padding-bottom:18px; 
+	padding-right:18px; 
+	border-right:1px solid #c7c7c7; 
+}
+#titulo-bienvenida{
+	width:465px;
+	text-align:left; 
+	margin-top:25px; 
+	margin-bottom:15px; 
+	float:left;
+}
+#titulo-articulos{
+	width:286px; 
+	text-align:left; 
+	padding-left:18px; 
+	margin-top:25px; 
+	margin-bottom:15px; 
+	float:left;
+	overflow:hidden;
+}
+#txt-articulos{
+	width:286px; 
+	text-align:left; 
+	padding-left:18px; 
+	float:left;
+}
+#titulo-consultorios{
+	width:100%;
+	text-align:left; 
+	margin-top:20px; 
+	margin-bottom:15px; 
+	float:left;
+}
+#titular-palermo{
+	margin-bottom:15px; 
+	padding-left:15px;
+}
+#titular-caballito{
+	margin-bottom:15px; 
+	padding-left:15px;
+}
+#detalle-consultorio{
+	width:30%; 
+	float:left; 
+	padding-left:15px;
+}
+
+/*******************************************************************************************/
+.titulo_formulario{
+	color: #30548B;/* color Azul oscuro  */
+	font-size: 10px; 
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-weight:bold;  
+}
+
+.Arial_11px_grisoscuro{
+font-family:Arial, Helvetica, sans-serif;
+font-size:11px;
+color:#666666;
+}
+
+.Arial_11px_blanco{
+font-family:Arial, Helvetica, sans-serif;
+font-size:11px;
+color:#FFFFFF;
+}
+
+.Arial_10px_grisoscuro{
+font-family:Arial, Helvetica, sans-serif;
+font-size:10px;
+color:#666666;
+}
+
+.Arial_12px_naranja{
+font-family:Arial, Helvetica, sans-serif;
+font-size:12px;
+color:#FF6600;
+}
+
+.Arial_16px_naranja{
+font-family:Georgia, "Times New Roman", Times, serif;
+font-size:16px;
+color:#FF6600;
+}
+
+.Arial_12px_grisoscuro{
+font-family:Arial, Helvetica, sans-serif;
+font-size:12px;
+color:#333333;
+}
+
+.registro_A{
+	color:#0099CC;
+	font-size:12px;
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-weight:bold;
+}
+
+.registro_B{
+	color:#CC0000;
+	font-size:11px;
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+}
+
+.star_rating_titulo{ 
+	font-family:Arial, Helvetica, sans-serif; 
+	font-size:12px; 
+	color:#666666; 
+}
+
+.cuadro_carrito_texto{
+font-family:Arial, Helvetica, sans-serif;
+font-size:11px;
+color:#999999;}
+
+.cuadro_login_texto{
+font-family:Arial, Helvetica, sans-serif;
+font-size:11px;
+color:#666666;
+}
+
+.carpeta_producto_titulo_01{
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:12px;
+	color:#666666;
+	letter-spacing:0px;
+}
+.carpeta_producto_precio_01{
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:11px;
+	color:#999999;
+	letter-spacing:0px;
+}
+
+.nombre_empresa_orden_compra{
+font-family:Georgia, 'Times New Roman', Times, serif;
+font-size:18px; 
+color:#666666;
+letter-spacing:-1px;
+line-height:30px;
+}
