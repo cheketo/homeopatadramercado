@@ -102,7 +102,7 @@
       	<div id="detalle-consultorio">
         	<div class="Arial_12px_Celeste">Direcci&oacute;n:</div>
             <div class="Arial_12px_Gris">
-            	Av. Santa Fe 3242. Piso 2, Depto "A". Ciudad Aut. de Buenos Aires.<br />Tel&eacute;fono: 4828-0344.
+            	Av. Santa Fe 3778. Piso 6, Depto 604. Ciudad Aut. de Buenos Aires.<br />Tel&eacute;fono: 4831-9240.
             </div>
       </div>
         <div id="detalle-consultorio">

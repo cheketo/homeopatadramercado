@@ -302,7 +302,7 @@ function validarContacto(){
       	<div style="width:30%; float:left; padding-left:15px;">
         	<div style="font-family:Arial, Helvetica, sans-serif; font-size:12px;  color:#069dc5;">Direcci&oacute;n:</div>
             <div style="font-family:Arial, Helvetica, sans-serif; font-size:12px; color:#5e5e5e;">
-            	Av. Santa Fe 3242. Piso 2, Depto "A". Ciudad Aut. de Buenos Aires.<br />Tel&eacute;fono: 4828-0344.
+            	Av. Santa Fe 3778. Piso 6, Depto 604. Ciudad Aut. de Buenos Aires.<br />Tel&eacute;fono: 4831-9240.
 			</div>
         </div>
         <div style="width:30%; float:left; padding-left:15px;">
