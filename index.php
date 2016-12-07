@@ -108,7 +108,7 @@
         <div id="detalle-consultorio">
         	<div class="Arial_12px_Celeste">Turnos en el:</div>
             <div class="Arial_12px_Gris">
-            	4828-0344 de Lunes a Viernes de 15 a 19 hs.			</div>
+            	4831-9240 de Lunes a Viernes de 15 a 19 hs.			</div>
       </div>
         <div id="detalle-consultorio">
         	<div class="Arial_12px_Celeste">D&iacute;as de atenci&oacute;n:</div>
