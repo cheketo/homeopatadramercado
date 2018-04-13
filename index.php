@@ -24,9 +24,9 @@
 	  <object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=9,0,28,0" width="280" height="56">
         <param name="movie" value="skin/index/swf/titulo_chico.swf" />
         <param name="quality" value="high" />
-        <param name="FlashVars" value="titulo=Art�culos" />
+        <param name="FlashVars" value="titulo=Art&iacute;culos" />
         <param name="wmode" value="transparent" />
-        <embed src="skin/index/swf/titulo.swf" FlashVars="titulo=Art�culos" wmode="transparent" quality="high" pluginspage="http://www.adobe.com/shockwave/download/download.cgi?P1_Prod_Version=ShockwaveFlash" type="application/x-shockwave-flash" width="700" height="56"></embed>
+        <embed src="skin/index/swf/titulo.swf" FlashVars="titulo=Art&iacute;culos" wmode="transparent" quality="high" pluginspage="http://www.adobe.com/shockwave/download/download.cgi?P1_Prod_Version=ShockwaveFlash" type="application/x-shockwave-flash" width="700" height="56"></embed>
       </object>
     </div>
 
@@ -74,9 +74,9 @@
       	<div id="detalle-consultorio">
         	<div class="Arial_12px_Celeste">Direcci&oacute;n:</div>
             <div class="Arial_12px_Gris">
-            	Ambrosetti 92. Piso 1, <br />Depto "A". Ciudad Aut. de Buenos Aires.
+            	Rosario 441. Piso 5, <br />Depto "B". Ciudad Aut. de Buenos Aires.
 			      <br />
-                Tel&eacute;fono: 4901-8459.
+                Tel&eacute;fono: 4902-2947.
             </div>
       </div>
         <div id="detalle-consultorio">

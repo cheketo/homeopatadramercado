@@ -276,7 +276,7 @@ function validarContacto(){
       	<div style="width:30%; float:left; padding-left:15px;">
         	<div style="font-family:Arial, Helvetica, sans-serif; font-size:12px;  color:#069dc5;">Direcci&oacute;n:</div>
             <div style="font-family:Arial, Helvetica, sans-serif; font-size:12px; color:#5e5e5e;">
-            	<p>Ambrosetti 92. Piso 1, Depto "A". Ciudad Aut. de Buenos Aires. <br />Tel&eacute;fono: 4982-1156.</p>
+            	<p>Rosario 441. Piso 5, Depto "B". Ciudad Aut. de Buenos Aires. <br />Tel&eacute;fono: 4902-2947.</p>
            	</div>
       </div>
         <div style="width:30%; float:left; padding-left:15px;">
