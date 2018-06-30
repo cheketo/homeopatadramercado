@@ -82,7 +82,7 @@
         <div id="detalle-consultorio">
         	<div class="Arial_12px_Celeste">Turnos en el:</div>
             <div class="Arial_12px_Gris">
-            	4631-1833 de Lunes a Viernes ma&ntilde;ana y tarde.
+            	4631-1833 / 4902-2947 de Lunes a Viernes ma&ntilde;ana y tarde.
 			</div>
         </div>
         <div id="detalle-consultorio">
@@ -108,7 +108,7 @@
         <div id="detalle-consultorio">
         	<div class="Arial_12px_Celeste">Turnos en el:</div>
             <div class="Arial_12px_Gris">
-            	4831-9240 de Lunes a Viernes de 15 a 19 hs.</div>
+            	4631-1833 / 4831-9240 de Lunes a Viernes de 15 a 19 hs.</div>
       </div>
         <div id="detalle-consultorio">
         	<div class="Arial_12px_Celeste">D&iacute;as de atenci&oacute;n:</div>
