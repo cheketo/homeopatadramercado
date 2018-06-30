@@ -289,7 +289,7 @@ function validarContacto(){
         	<div style="font-family:Arial, Helvetica, sans-serif; font-size:12px;  color:#069dc5;">D&iacute;as de atenci&oacute;n:</div>
             <div style="font-family:Arial, Helvetica, sans-serif; font-size:12px; color:#5e5e5e;">
             	&raquo; Martes de 16 a 19.30hs.<br />
-              &raquo; Jueves de 9 a 12.30hs.
+              &raquo; Jueves de 9 a 13.30hs.
 			</div>
         </div>
 
