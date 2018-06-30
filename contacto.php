@@ -289,8 +289,7 @@ function validarContacto(){
         	<div style="font-family:Arial, Helvetica, sans-serif; font-size:12px;  color:#069dc5;">D&iacute;as de atenci&oacute;n:</div>
             <div style="font-family:Arial, Helvetica, sans-serif; font-size:12px; color:#5e5e5e;">
             	&raquo; Martes de 16 a 19.30hs.<br />
-                &raquo; Miercoles de 15 a 19.30hs.<br />
-                &raquo; Jueves de 9 a 12.30hs.
+              &raquo; Jueves de 9 a 12.30hs.
 			</div>
         </div>
 
@@ -302,7 +301,7 @@ function validarContacto(){
       	<div style="width:30%; float:left; padding-left:15px;">
         	<div style="font-family:Arial, Helvetica, sans-serif; font-size:12px;  color:#069dc5;">Direcci&oacute;n:</div>
             <div style="font-family:Arial, Helvetica, sans-serif; font-size:12px; color:#5e5e5e;">
-            	Av. Santa Fe 3778. Piso 6, Depto 604. Ciudad Aut. de Buenos Aires.<br />Tel&eacute;fono: 4831-9240.
+            	Av. Santa Fe 3778. Piso 12, Depto 1204. Ciudad Aut. de Buenos Aires.<br />Tel&eacute;fono: 4831-9240.
 			</div>
         </div>
         <div style="width:30%; float:left; padding-left:15px;">
@@ -314,7 +313,7 @@ function validarContacto(){
         <div style="width:30%; float:left; padding-left:15px;">
         	<div style="font-family:Arial, Helvetica, sans-serif; font-size:12px;  color:#069dc5;">D&iacute;as de atenci&oacute;n:</div>
             <div style="font-family:Arial, Helvetica, sans-serif; font-size:12px; color:#5e5e5e;">
-            	&raquo; Jueves de 14 a 17.30hs.
+            	&raquo; Mi&eacute;rcoles de 14 a 17.30hs.
 			</div>
         </div>
 

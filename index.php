@@ -89,8 +89,8 @@
         	<div class="Arial_12px_Celeste">D&iacute;as de atenci&oacute;n:</div>
             <div class="Arial_12px_Gris">
             	&raquo; Martes de 16 a 19.30hs.<br />
-                &raquo; Miercoles de 15 a 19.30hs.<br />
-                &raquo; Jueves de 9 a 12.30hs.
+                <!-- &raquo; Miercoles de 15 a 19.30hs.<br /> -->
+                &raquo; Jueves de 9 a 13.30hs.
 			</div>
         </div>
 
@@ -102,18 +102,18 @@
       	<div id="detalle-consultorio">
         	<div class="Arial_12px_Celeste">Direcci&oacute;n:</div>
             <div class="Arial_12px_Gris">
-            	Av. Santa Fe 3778. Piso 6, Depto 604. Ciudad Aut. de Buenos Aires.<br />Tel&eacute;fono: 4831-9240.
+            	Av. Santa Fe 3778. Piso 12, Depto 1204. Ciudad Aut. de Buenos Aires.<br />Tel&eacute;fono: 4831-9240.
             </div>
       </div>
         <div id="detalle-consultorio">
         	<div class="Arial_12px_Celeste">Turnos en el:</div>
             <div class="Arial_12px_Gris">
-            	4831-9240 de Lunes a Viernes de 15 a 19 hs.			</div>
+            	4831-9240 de Lunes a Viernes de 15 a 19 hs.</div>
       </div>
         <div id="detalle-consultorio">
         	<div class="Arial_12px_Celeste">D&iacute;as de atenci&oacute;n:</div>
             <div class="Arial_12px_Gris">
-            	&raquo; Jueves de 14 a 17.30hs.
+            	&raquo; Mi&eacute;rcoles de 14 a 17.30hs.
 			</div>
         </div>
 
