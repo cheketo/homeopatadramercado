@@ -307,7 +307,7 @@ function validarContacto(){
         <div style="width:30%; float:left; padding-left:15px;">
         	<div style="font-family:Arial, Helvetica, sans-serif; font-size:12px;  color:#069dc5;">Turnos en el:</div>
             <div style="font-family:Arial, Helvetica, sans-serif; font-size:12px; color:#5e5e5e;">
-            	4631-1833 / 4831-9240 de Lunes a Viernes de 15 a 19 hs.
+            	4631-1833 / 4831-9240 de Lunes a Viernes de 15 a 19 hs. ma&ntilde;ana y tarde.
 			</div>
         </div>
         <div style="width:30%; float:left; padding-left:15px;">
